@@ -38,10 +38,8 @@ function About() {
 
           {/* Personal touch */}
           <p>
-            When I’m not coding, you’ll find me near Kateel Patte 
-            Gambling in kattadha Kori,Kambla, Pili Nalike.  
-            I believe in gambling and love money making with
-            creative minds to turn ideas into reality.
+            When I’m not coding, you’ll find me near  Patte 
+    
           </p>
         </div>
       </div>
